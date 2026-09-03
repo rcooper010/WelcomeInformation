@@ -1,0 +1,81 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://imgur.com/a/blRGhFM",
+			"disableicontext": false,
+			"iconposition": 3,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "Welcome",
+				"imageurl": "https://imgur.com/a/blRGhFM",
+				"content": [
+					{
+						"title": "Welcome to the \"Twisted Ark Servers\"",
+						"text": "Welcome to the \"Twisted Ark Servers\".\r\n\r\nBe sure to check out all our information by visiting our Discord.\r\n\r\nMost important Rules.\r\n\r\nAll Players must be in a tribe and need to register their tribe on our Discord.\r\n\r\nYour Tribe name must remain the same on all Servers across our cluster.\r\n\r\nAbsolutely no Greifing. If you have an issue with another player... Contact admin... retaliation is Not okay.\r\n\r\nNO PILLAR SPAMMING!!!\r\n"
+					},
+					{
+						"title": "Check out our Website",
+						"text": "Coiming Soon!!!"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "ArkShop F1/ Trade System Info.",
+				"imageurl": "https://imgur.com/a/blRGhFM",
+				"content": [
+					{
+						"title": "Ark Shop",
+						"text": "1. Press F1 to access the shop\r\n\r\n2. You earn 15 shop points for every 15 consecutive minutes you play.\r\n\r\n3. When you purchase a Pack, you must then claim it from the Loot tab\r\n\r\n4. All mutated dino's must be neutered before sale.\r\n\r\n5. shop points are able to be traded for Player trade coins in the  \"Pack\" tab\r\n"
+					},
+					{
+						"title": "Player Trade",
+						"text": "1. All \"Players\" may have 2 personal trade shops on each server.\r\n\r\n2. All \"Tribes\" may have 2 personal Trade shops on each server.\r\n\r\n3. All mutated dino's must be neutered before sale.\r\n\r\n4. Player trade coins are able to be traded for shop points in the  \"Sell\" tab"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.com/channels/1011761091891703838/1015751014273515571"
+			},
+			{
+				"text": "Wiki",
+				"url": "https://wiki.wbui2.de"
+			},
+			{
+				"text": "CurseForge",
+				"url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+			},
+			{
+				"text": "JSON-Validator",
+				"url": "https://jsonlint.com"
+			},
+			{
+				"text": "Github",
+				"url": "https://github.com"
+			},
+			{
+				"text": "Imgur",
+				"url": "https://imgur.com"
+			},
+			{
+				"text": "Example JSON",
+				"url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+			}
+		],
+		"version": 2
+	}
+}
