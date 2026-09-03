@@ -22,11 +22,11 @@
 				"content": [
 					{
 						"title": "Welcome to the \"Twisted Ark Servers\"",
-						"text": "Welcome to the \"Twisted Ark Servers\".\r\n\r\nBe sure to check out all our information by visiting our Discord.\r\n\r\nMost important Rules.\r\n\r\nAll Players must be in a tribe and need to register their tribe on our Discord.\r\n\r\nYour Tribe name must remain the same on all Servers across our cluster.\r\n\r\nAbsolutely no Greifing. If you have an issue with another player... Contact admin... retaliation is Not okay.\r\n\r\nNO PILLAR SPAMMING!!!\r\n"
+						"text": "Welcome to the \"Twisted Ark Servers\".\r\n\r\nClaim your free Remote Teleporter and Snow owl in our F1 shop.\r\nClick \"Packs\" select the pack and buy it. (free) then claim it in the \"Loot\" tab.\r\n\r\nBe sure to check out all our information by visiting our Discord.\r\n\r\nMost important Rules.\r\n\r\nAll Players must be in a tribe and need to register their tribe on our Discord.\r\n\r\nYour Tribe name must remain the same on all Servers across our cluster.\r\n\r\nAbsolutely no Greifing. If you have an issue with another player... Contact admin... retaliation is Not okay.\r\n\r\nNO PILLAR SPAMMING!!!\r\n\r\n\r\n\r\n"
 					},
 					{
-						"title": "Check out our Website",
-						"text": "Coiming Soon!!!"
+						"title": "Server Rates",
+						"text": "Taming: 20\r\n\r\nBreeding: x20\r\n\r\nMature: x20\r\n\r\nHarvest: x5\r\n\r\nWe also have potions and tranqs to make taming simpler."
 					}
 				]
 			},
@@ -52,28 +52,8 @@
 				"url": "https://discord.com/channels/1011761091891703838/1015751014273515571"
 			},
 			{
-				"text": "Wiki",
-				"url": "https://wiki.wbui2.de"
-			},
-			{
-				"text": "CurseForge",
-				"url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-			},
-			{
-				"text": "JSON-Validator",
-				"url": "https://jsonlint.com"
-			},
-			{
-				"text": "Github",
-				"url": "https://github.com"
-			},
-			{
-				"text": "Imgur",
-				"url": "https://imgur.com"
-			},
-			{
-				"text": "Example JSON",
-				"url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+				"text": "Website",
+				"url": "https://twistedgames.org/"
 			}
 		],
 		"version": 2
